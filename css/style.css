@@ -1,0 +1,61 @@
+body {
+    font-family: 'Kanit', sans;
+}
+
+.container1 {
+    background-color: #1DA0E5;
+    color: white;
+}
+
+.container1 .text-body-emphasis {
+    color: white !important;
+}
+
+.container2 {
+    background-color: #1DA0E5;
+    padding: 50px;
+    color: white;
+}
+
+.container3 {
+    background-color: #1681B9;
+    color: white;
+}
+
+.container3 .text-body-emphasis {
+    color: white !important;
+}
+
+.container3 .dets {
+    font-weight: 100;
+}
+
+.container3 .text-body-secondary {
+    color: white !important;
+}
+
+.container3 .copyright {
+    font-weight: 100;
+}
+
+.portrait {
+    border-radius: 50%;
+}
+
+.main_contact {
+    display: absolute;
+    left: 50px;
+}
+
+.main_contact .field .field-label {
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+}
+
+.main_contact .field .field-value {
+    font-weight: 100;
+    width: 200px;
+    display: inline-block;
+}
