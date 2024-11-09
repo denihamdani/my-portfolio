@@ -38,6 +38,11 @@ body {
     font-weight: 100;
 }
 
+.container3 p, .container3 ul {
+    font-weight: 100;
+}
+
+
 .portrait {
     border-radius: 50%;
 }
